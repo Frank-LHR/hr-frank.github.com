@@ -255,7 +255,6 @@ a:hover{
         var subMenu = li.getElementsByTagName("ul")[0];
         subMenu.style.display = "none";
     }
-
 </SCRIPT>
  
 <TABLE width="1000" height="26" align="center" background="images/cnz01topbg.gif" 
